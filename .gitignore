@@ -4,3 +4,13 @@ pom.xml
 /classes/
 .lein-deps-sum
 resources/public/cljs/
+# Created by http://www.gitignore.io
+
+### vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
